@@ -101,9 +101,7 @@ Run the second notebook/script for Custom 3D CNN with deduplication. Model saves
 - Try ensemble methods combining both approaches
 - Expand dataset with more diverse scenarios
 
-## License
 
-This project is for educational purposes.
 
 ## Acknowledgments
 
